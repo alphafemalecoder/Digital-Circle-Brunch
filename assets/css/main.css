@@ -5180,7 +5180,7 @@ textarea {
   width: auto;
 }
 .td-text-slider-spacing {
-  background: var(--td-common-yellow);
+  background: var(--td-theme-secondary);
   padding: 17px 0px;
 }
 .td-text-6-slider {
